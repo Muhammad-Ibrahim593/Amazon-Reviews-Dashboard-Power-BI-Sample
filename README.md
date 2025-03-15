@@ -1,7 +1,7 @@
 # Amazon-Reviews-Dashboard-Power-BI-Sample
 The Amazon Reviews Dashboard provides an overview of customer reviews, including trends in review counts and ratings over time. It tracks monthly, quarterly, and yearly review data, offering insights into customer satisfaction and feedback patterns.
 ## Data Set Used
--<a href="">Dataset<a/>
+<a href="https://github.com/Muhammad-Ibrahim593/Amazon-Reviews-Dashboard-Power-BI-Sample/blob/main/Amazon_Reviews.csv">Dataset<a/>
 ## Key points 
 ✅ Review Trends: Review counts have steadily increased from 2010 to 2020.
 ✅ Rating Distribution: Most reviews are 4 or 5 stars, indicating high satisfaction.
