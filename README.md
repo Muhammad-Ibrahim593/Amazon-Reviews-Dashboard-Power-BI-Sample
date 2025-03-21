@@ -9,4 +9,5 @@ The Amazon Reviews Dashboard provides an overview of customer reviews, including
 ✅ Yearly Growth: YTD reviews reached 32K, highlighting growing customer engagement.
 ✅ Low Ratings: Fewer reviews are rated 1 or 2 stars, suggesting fewer complaints
 ## Dashboard
-![Amazon Reviews Portfolio_page-0001](https://github.com/user-attachments/assets/989c7136-8f8f-4e89-8f80-8feed8166e04)
+![DAY-29 Project Portfolio Amazon Review pdf _page-0001](https://github.com/user-attachments/assets/530ab047-b438-4f92-ae8d-469617217db6)
+
